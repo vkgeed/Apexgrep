@@ -1,0 +1,8 @@
+
+
+
+The SDK is an API client. It’s a typed wrapper around Gemini’s HTTP API. It sends your messages, tool declarations, and settings to the model and gives back the response (text or a function call). It does not decide anything.
+apexcompiler
+It never runs your tools, never loops, and never remembers anything between calls.
+
+In the existing thumbnail replace the image of the man with my face . Note that don't remove the pixelated frames . Also remove the magnifier present in the image.

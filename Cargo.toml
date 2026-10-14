@@ -1,0 +1,11 @@
+[package]
+name = "apexgrep"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[profiles]
+# it make  responsible and i guess it gonna make our OS slow
+# if we hand this over to rustc then our OS will be efficent
+
